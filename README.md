@@ -20,9 +20,7 @@ I love working with **TypeScript, Node.js, AI models, and Python**, always explo
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=ravikan6&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravikan6&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏗 Currently Learning
-- **Go (Golang)** 🦫  
+ 
 
 ---
 
@@ -37,4 +35,4 @@ I love working with **TypeScript, Node.js, AI models, and Python**, always explo
 ## 📫 Let's Connect  
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github)](https://github.com/ravikan6/) 
 <!-- [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yourhandle)  -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravikant-saini-54841b353/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravikant6/)  
