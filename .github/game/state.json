@@ -1,0 +1,28 @@
+{
+  "gems": [
+    [
+      3,
+      3
+    ],
+    [
+      8,
+      9
+    ],
+    [
+      17,
+      9
+    ]
+  ],
+  "gems_total": 3,
+  "hall": [],
+  "level": 1,
+  "levels_cleared": 0,
+  "log": [],
+  "moves_level": 0,
+  "moves_total": 0,
+  "players": {},
+  "pos": [
+    1,
+    1
+  ]
+}

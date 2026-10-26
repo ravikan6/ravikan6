@@ -1,36 +1,71 @@
-# hey, i'm ravikant
+# ravikant
 
-self-taught developer from india. i like building things that feel fast and work correctly.
+self-taught solo dev. rust, typescript, react. arch linux, niri, terminal first.
+i write code from a village in india where the nearest tech meetup is the internet, so this readme has a game in it. come play.
 
-currently deep in **rust** — writing systems-level code, learning how memory actually works, and enjoying the compiler yelling at me.
+## the crawler
 
----
+a small dungeon that everyone who lands on this page drives together. collect every gem, then take the stairs.
+each click opens an issue, a github action moves the `@` and rewrites this page. just press submit on the issue and give it a few seconds.
 
-## stuff i've built
+<div align="center">
 
-**[nuvix](https://github.com/nuvix-dev/nuvix)** — a self-hostable backend-as-a-service platform (think firebase / supabase). built the core, shipped it, learned a lot.
+```
+#####################
+#@#       #         #
+# # # ### # ### ### #
+# #*#   # #   #   # #
+# ### # # ### ### # #
+#   # # #   #  =# # #
+### # # ### ##### ###
+#   # #   # #   #   #
+# ####### # # # ### #
+#       * #   #  *  #
+#####################
+```
 
-**[saola](https://github.com/ravikan6/saola)** — an experimental rust orm that embeds prisma-engines directly into the binary. no separate process, prisma-style ergonomics in rust.
+`@` you &nbsp; `*` gem &nbsp; `=` sealed stairs &nbsp; `>` open stairs
 
----
+**level 1** &nbsp;·&nbsp; gems 0/3 &nbsp;·&nbsp; stairs sealed &nbsp;·&nbsp; 0 steps taken together
 
-## what i'm into right now
+[⬆️ up](https://github.com/ravikan6/ravikan6/issues/new?title=crawl%3A%20up&body=just%20press%20submit.%20a%20bot%20moves%20the%20%40%20and%20rewrites%20the%20profile.%20no%20need%20to%20edit%20anything.)
 
-- rust (actix-web, sqlx, tokio)
-- systems programming and low-level stuff
-- backend architecture that doesn't fall apart under load
-- reading other people's source code
+[⬅️ left](https://github.com/ravikan6/ravikan6/issues/new?title=crawl%3A%20left&body=just%20press%20submit.%20a%20bot%20moves%20the%20%40%20and%20rewrites%20the%20profile.%20no%20need%20to%20edit%20anything.) &nbsp;&nbsp;|&nbsp;&nbsp; [right ➡️](https://github.com/ravikan6/ravikan6/issues/new?title=crawl%3A%20right&body=just%20press%20submit.%20a%20bot%20moves%20the%20%40%20and%20rewrites%20the%20profile.%20no%20need%20to%20edit%20anything.)
 
----
+[⬇️ down](https://github.com/ravikan6/ravikan6/issues/new?title=crawl%3A%20down&body=just%20press%20submit.%20a%20bot%20moves%20the%20%40%20and%20rewrites%20the%20profile.%20no%20need%20to%20edit%20anything.)
 
-## stack
+</div>
 
-**comfortable with:** rust, typescript, node.js, postgresql, redis, docker  
-**have shipped things in:** go, python, flutter, react, next.js  
-**currently learning more of:** rust internals, async runtimes
+<details>
+<summary>recent steps, top crawlers, level clears</summary>
 
----
+<br/>
 
-## find me
+- nothing yet, be the first
 
-[github](https://github.com/ravikan6) · [x / twitter](https://x.com/ravikan6saini) · [linkedin](https://linkedin.com/in/ravikan6) · [portfolio](https://ravikan6.vercel.app)
+| # | crawler | steps |
+|---|---|---|
+| - | nobody yet | 0 |
+
+| level | cleared by | steps |
+|---|---|---|
+| - | nobody yet | - |
+
+</details>
+
+## what i'm building
+
+- **a reusable backend in rust.** one axum app, one crate per service (auth, storage, messaging, short links, avatars, forms), surrealdb underneath with a namespace per tenant instance.
+- **[ravikan6.tech](https://ravikan6.tech).** my own corner of the web, in astro.
+- **kraz-ui** and a few small experiments at [kraz.in](https://kraz.in) and [makable.in](https://makable.in).
+
+## what i use
+
+rust, axum, surrealdb, typescript, react, astro, cloudflare workers, linux, fish, git.
+my laptop is old (sandy bridge i3), so i care about things that run lean.
+
+## say hi
+
+[website](https://ravikan6.tech) · [linkedin](https://linkedin.com/in/ravikan6) · [instagram](https://instagram.com/ravikan_6)
+
+if you are learning without a local community, you are not the only one.
